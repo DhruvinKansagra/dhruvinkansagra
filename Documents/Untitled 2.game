@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BlackType</key>
+	<string>human</string>
+	<key>City</key>
+	<string>?</string>
+	<key>Country</key>
+	<string>?</string>
+	<key>Event</key>
+	<string>Casual Game</string>
+	<key>Holding</key>
+	<string>[QP] []</string>
+	<key>MBCAlternateVoice</key>
+	<string>com.apple.speech.synthesis.voice.Victoria</string>
+	<key>MBCBoardAngle</key>
+	<real>63.114887237548828</real>
+	<key>MBCBoardSpin</key>
+	<real>180</real>
+	<key>MBCBoardStyle</key>
+	<string>Wood</string>
+	<key>MBCListenForMoves</key>
+	<true/>
+	<key>MBCPieceStyle</key>
+	<string>Wood</string>
+	<key>MBCSearchTime</key>
+	<real>-3</real>
+	<key>MBCShowGameLog</key>
+	<false/>
+	<key>MBCSpeakHumanMoves</key>
+	<false/>
+	<key>MBCSpeakMoves</key>
+	<true/>
+	<key>Moves</key>
+	<string>g2g4
+d7d5
+f1g2
+d8d6
+g2d5
+d6c6
+d5c6
+e8d8
+c6e8
+e7e5
+e8a4
+e5e4
+g1f3
+b8a6
+f3e5
+a6b4
+e5d7
+</string>
+	<key>Position</key>
+	<string>r1bk1bnr/pppN1ppp/8/8/Bn2p1P1/8/PPPPPP1P/RNBQK2R b KQ - 5 9</string>
+	<key>Result</key>
+	<string>*</string>
+	<key>StartDate</key>
+	<string>2020.03.22</string>
+	<key>StartTime</key>
+	<string>19:54:22</string>
+	<key>Variant</key>
+	<string>normal</string>
+	<key>White</key>
+	<string>Dhruvin Kansagra</string>
+	<key>WhiteType</key>
+	<string>human</string>
+</dict>
+</plist>

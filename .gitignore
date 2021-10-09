@@ -1,0 +1,20 @@
+.android/
+.bash_sessions/
+.cocoapods/
+.dart/
+.dartServer/
+.gem/
+.gradle/
+.pub-cache/
+.viminfo
+.vscode/
+.zsh_history
+.zsh_sessions/
+Downloads/
+Library/
+Local Sites/
+Movies/
+Music/
+Pictures/
+Public/
+iCloud Drive (Archive)/

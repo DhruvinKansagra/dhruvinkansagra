@@ -1,0 +1,471 @@
+
+/* Class = "NSMenu"; title = "Annotate"; ObjectID = "0CA-1z-rpG"; */
+"0CA-1z-rpG.title" = "Annoter";
+
+/* Class = "NSMenuItem"; title = "Properties..."; ObjectID = "0iE-EM-Wp4"; */
+"0iE-EM-Wp4.title" = "Propriétés...";
+
+/* Class = "NSMenu"; title = "Edit PDF"; ObjectID = "13w-ul-xkg"; */
+"13w-ul-xkg.title" = "Modifier PDF";
+
+/* Class = "NSMenuItem"; title = "PDF Expert"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "PDF Expert";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "Rechercher";
+
+/* Class = "NSMenuItem"; title = "Annotation Tools"; ObjectID = "2zp-le-sdt"; */
+"2zp-le-sdt.title" = "Outils d’annotation";
+
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "3on-B0-jSs"; */
+"3on-B0-jSs.title" = "Image";
+
+/* Class = "NSMenuItem"; title = "Empty Document"; ObjectID = "45X-Ft-Ogv"; */
+"45X-Ft-Ogv.title" = "Document vide";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "Rechercher";
+
+/* Class = "NSMenuItem"; title = "Down"; ObjectID = "4Hx-6a-9Go"; */
+"4Hx-6a-9Go.title" = "Bas";
+
+/* Class = "NSMenuItem"; title = "Snap"; ObjectID = "4UD-pA-f8U"; */
+"4UD-pA-f8U.title" = "Alignement";
+
+/* Class = "NSMenuItem"; title = "Quit PDF Expert"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quitter PDF Expert";
+
+/* Class = "NSMenuItem"; title = "Rotate Annotation 90° Right"; ObjectID = "5I4-EI-7Uw"; */
+"5I4-EI-7Uw.title" = "Pivoter l'annotation de 90º à droite";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Modifier";
+
+/* Class = "NSMenuItem"; title = "About PDF Expert"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "À propos de PDF Expert";
+
+/* Class = "NSMenuItem"; title = "Set Password..."; ObjectID = "66z-n3-Fbh"; */
+"66z-n3-Fbh.title" = "Définir le mot de passe...";
+
+/* Class = "NSMenuItem"; title = "No Tools"; ObjectID = "6KL-6o-t1B"; */
+"6KL-6o-t1B.title" = "Aucun outil";
+
+/* Class = "NSMenuItem"; title = "What's New"; ObjectID = "6Ow-xX-ECi"; */
+"6Ow-xX-ECi.title" = "Quoi de neuf";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Refaire";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "6jD-yt-L8u"; */
+"6jD-yt-L8u.title" = "Préférences…";
+
+/* Class = "NSMenuItem"; title = "From Clipboard"; ObjectID = "6tQ-qs-5Du"; */
+"6tQ-qs-5Du.title" = "Depuis le presse-papiers";
+
+/* Class = "NSMenuItem"; title = "Stamp"; ObjectID = "7ea-GG-gr0"; */
+"7ea-GG-gr0.title" = "Tampon";
+
+/* Class = "NSMenuItem"; title = "Bookmarks"; ObjectID = "7g7-Lh-H3X"; */
+"7g7-Lh-H3X.title" = "Favoris";
+
+/* Class = "NSMenuItem"; title = "Edit PDF"; ObjectID = "8Hr-vy-41r"; */
+"8Hr-vy-41r.title" = "Modifier PDF";
+
+/* Class = "NSMenuItem"; title = "Signature"; ObjectID = "8dC-l2-ilH"; */
+"8dC-l2-ilH.title" = "Signature";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Menu principal";
+
+/* Class = "NSMenuItem"; title = "Link"; ObjectID = "Aw7-a6-tIb"; */
+"Aw7-a6-tIb.title" = "Lien";
+
+/* Class = "NSMenuItem"; title = "Disable Split View"; ObjectID = "BBY-sx-c9k"; */
+"BBY-sx-c9k.title" = "Désactiver l'affichage fractionné";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
+"Bw7-FT-i3A.title" = "Enregistrer sous…";
+
+/* Class = "NSMenu"; title = "New"; ObjectID = "BxE-3u-6Fh"; */
+"BxE-3u-6Fh.title" = "Nouveau";
+
+/* Class = "NSMenuItem"; title = "Add Bates Numbers..."; ObjectID = "Csm-ei-ycm"; */
+"Csm-ei-ycm.title" = "Ajouter des numéros de référence...";
+
+/* Class = "NSMenuItem"; title = "Go to Previous Tab"; ObjectID = "DU5-Mv-pEd"; */
+"DU5-Mv-pEd.title" = "Aller à l’onglet précédent";
+
+/* Class = "NSMenuItem"; title = "Close Window"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Fermer la fenêtre";
+
+/* Class = "NSMenuItem"; title = "Go Back"; ObjectID = "Eb7-Wd-ooI"; */
+"Eb7-Wd-ooI.title" = "Retour";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Aide";
+
+/* Class = "NSMenuItem"; title = "Add Page Numbers..."; ObjectID = "F7F-qo-ZhK"; */
+"F7F-qo-ZhK.title" = "Ajouter des numéros de page...";
+
+/* Class = "NSMenuItem"; title = "Getting Started"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Mise en route";
+
+/* Class = "NSMenuItem"; title = "Merge Files..."; ObjectID = "FnX-HH-4Xd"; */
+"FnX-HH-4Xd.title" = "Fusionner des fichiers...";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "Fvm-Tb-JNH"; */
+"Fvm-Tb-JNH.title" = "Rechercher les mises à jour...";
+
+/* Class = "NSMenuItem"; title = "Up"; ObjectID = "Gx8-mq-RVs"; */
+"Gx8-mq-RVs.title" = "En haut";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "Voir";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "HSR-yC-0UQ"; */
+"HSR-yC-0UQ.title" = "Texte";
+
+/* Class = "NSMenuItem"; title = "Day"; ObjectID = "HvA-It-aVo"; */
+"HvA-It-aVo.title" = "Jour";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "Voir";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "Ouvrir…";
+
+/* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "IP9-Wj-nac"; */
+"IP9-Wj-nac.title" = "Politique de confidentialité";
+
+/* Class = "NSMenuItem"; title = "Two Pages"; ObjectID = "Jf3-DS-hID"; */
+"Jf3-DS-hID.title" = "Deux pages";
+
+/* Class = "NSMenuItem"; title = "Close Other Tabs"; ObjectID = "Kbn-0E-nMv"; */
+"Kbn-0E-nMv.title" = "Fermer les autres onglets";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Afficher tout";
+
+/* Class = "NSMenuItem"; title = "Find and Redact..."; ObjectID = "Ku0-4P-WaA"; */
+"Ku0-4P-WaA.title" = "Rechercher et biffer...";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Placer tout à l’avant";
+
+/* Class = "NSMenuItem"; title = "Night"; ObjectID = "MRl-Cv-VbV"; */
+"MRl-Cv-VbV.title" = "Nuit";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "MYR-wI-AVe"; */
+"MYR-wI-AVe.title" = "Afficher dans le Finder";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Réduire";
+
+/* Class = "NSMenuItem"; title = "Previous Page"; ObjectID = "OY8-fs-wd8"; */
+"OY8-fs-wd8.title" = "Page précédente";
+
+/* Class = "NSMenuItem"; title = "Zoom to Fit Width"; ObjectID = "OcH-vr-Aj4"; */
+"OcH-vr-Aj4.title" = "Zoom pour ajuster la largeur";
+
+/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "Ogm-E6-mba"; */
+"Ogm-E6-mba.title" = "Surligner";
+
+/* Class = "NSMenuItem"; title = "Hide PDF Expert"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Masquer PDF Expert";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "Précédent";
+
+/* Class = "NSMenuItem"; title = "Next Page"; ObjectID = "Ozb-r6-G4D"; */
+"Ozb-r6-G4D.title" = "Page suivante";
+
+/* Class = "NSMenuItem"; title = "PDF Editing Tools"; ObjectID = "Pd1-N4-bV1"; */
+"Pd1-N4-bV1.title" = "Outils d’édition de PDF";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "Q4e-Ia-aYC"; */
+"Q4e-Ia-aYC.title" = "Entrer mode plein écran";
+
+/* Class = "NSMenuItem"; title = "From File..."; ObjectID = "Q7n-6Z-zlC"; */
+"Q7n-6Z-zlC.title" = "Depuis le fichier...";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Sélectionner tout";
+
+/* Class = "NSMenuItem"; title = "Header and Footer"; ObjectID = "SDq-MA-e2p"; */
+"SDq-MA-e2p.title" = "En-tête et pied de page";
+
+/* Class = "NSMenuItem"; title = "Crop"; ObjectID = "SIk-N6-ARk"; */
+"SIk-N6-ARk.title" = "Recadrer";
+
+/* Class = "NSMenuItem"; title = "Remove Page Numbers"; ObjectID = "SoQ-eS-ovF"; */
+"SoQ-eS-ovF.title" = "Supprimer les numéros de page";
+
+/* Class = "NSMenuItem"; title = "Outline"; ObjectID = "TO1-Qb-WDS"; */
+"TO1-Qb-WDS.title" = "Plan";
+
+/* Class = "NSMenu"; title = "Theme"; ObjectID = "TRr-OO-gSH"; */
+"TRr-OO-gSH.title" = "Thème";
+
+/* Class = "NSMenuItem"; title = "Reduce File Size..."; ObjectID = "TTj-rD-4Bd"; */
+"TTj-rD-4Bd.title" = "Réduire la taille du fichier...";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Fenêtre";
+
+/* Class = "NSMenuItem"; title = "Two Pages but First Single"; ObjectID = "TeI-OQ-oUt"; */
+"TeI-OQ-oUt.title" = "Deux pages mais la première seule";
+
+/* Class = "NSMenuItem"; title = "Split View"; ObjectID = "Tj1-Ic-SWn"; */
+"Tj1-Ic-SWn.title" = "Affichage fractionné";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "Tkf-KA-rYT"; */
+"Tkf-KA-rYT.title" = "Zoom avant";
+
+/* Class = "NSMenuItem"; title = "Single Page"; ObjectID = "TqM-Pp-Ubc"; */
+"TqM-Pp-Ubc.title" = "Page seule";
+
+/* Class = "NSMenuItem"; title = "Go to Page..."; ObjectID = "UTj-iy-DH8"; */
+"UTj-iy-DH8.title" = "Aller à la page...";
+
+/* Class = "NSMenuItem"; title = "Note"; ObjectID = "Uvv-tn-9iI"; */
+"Uvv-tn-9iI.title" = "Note";
+
+/* Class = "NSMenuItem"; title = "Rotate Current Page Left"; ObjectID = "VRx-Kj-1Eh"; */
+"VRx-Kj-1Eh.title" = "Rotation à gauche de la page actuelle";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Masquer les autres";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Modifier";
+
+/* Class = "NSMenuItem"; title = "Thumbnails Panel"; ObjectID = "XJ5-UY-3KS"; */
+"XJ5-UY-3KS.title" = "Panneau de vignettes";
+
+/* Class = "NSMenuItem"; title = "Help Center"; ObjectID = "Xb2-XB-e0O"; */
+"Xb2-XB-e0O.title" = "Centre d’aide";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+"Xz5-n4-O0W.title" = "Rechercher…";
+
+/* Class = "NSMenuItem"; title = "Save as Flatten…"; ObjectID = "Yf9-Nq-d9p"; */
+"Yf9-Nq-d9p.title" = "Enregistrer comme aplati…";
+
+/* Class = "NSMenuItem"; title = "New Tab"; ObjectID = "Yis-KM-erN"; */
+"Yis-KM-erN.title" = "Nouvel onglet";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "ZVE-pB-XUa"; */
+"ZVE-pB-XUa.title" = "Souligner";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "Imprimer…";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Fenêtre";
+
+/* Class = "NSMenuItem"; title = "Theme"; ObjectID = "agv-hJ-oTP"; */
+"agv-hJ-oTP.title" = "Thème";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "Fichier";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+"buJ-ug-pKt.title" = "Utiliser la sélection pour rechercher";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "byE-L5-1WR"; */
+"byE-L5-1WR.title" = "Nouveau";
+
+/* Class = "NSMenuItem"; title = "Export Annotation Summary..."; ObjectID = "cIQ-Kt-SaW"; */
+"cIQ-Kt-SaW.title" = "Exporter le sommaire des annotations...";
+
+/* Class = "NSMenuItem"; title = "Strikeout"; ObjectID = "caR-Q9-95E"; */
+"caR-Q9-95E.title" = "Barrer";
+
+/* Class = "NSMenuItem"; title = "Merge All Windows"; ObjectID = "czr-Gm-Nxv"; */
+"czr-Gm-Nxv.title" = "Fusionner toutes les fenêtres";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "Fichier";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "Annuler";
+
+/* Class = "NSMenuItem"; title = "Send Feedback"; ObjectID = "dZM-Ph-Zze"; */
+"dZM-Ph-Zze.title" = "Envoyer un commentaire";
+
+/* Class = "NSMenuItem"; title = "Annotate"; ObjectID = "e4P-TW-hzy"; */
+"e4P-TW-hzy.title" = "Annoter";
+
+/* Class = "NSMenuItem"; title = "Sepia"; ObjectID = "ewB-G8-k07"; */
+"ewB-G8-k07.title" = "Sépia";
+
+/* Class = "NSMenuItem"; title = "Thumbnails"; ObjectID = "fK7-5n-I5O"; */
+"fK7-5n-I5O.title" = "Vignettes";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "g3m-xL-X2F"; */
+"g3m-xL-X2F.title" = "Flèche";
+
+/* Class = "NSMenuItem"; title = "Rotate Annotation 180°"; ObjectID = "gBm-Wo-5Sj"; */
+"gBm-Wo-5Sj.title" = "Pivoter l'annotation de 180°";
+
+/* Class = "NSMenuItem"; title = "Go Forward"; ObjectID = "gRu-Hv-6Vg"; */
+"gRu-Hv-6Vg.title" = "Suivant";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Coller";
+
+/* Class = "NSMenuItem"; title = "Eraser"; ObjectID = "gbd-VY-Twf"; */
+"gbd-VY-Twf.title" = "Effaceur";
+
+/* Class = "NSMenuItem"; title = "Add Text..."; ObjectID = "geY-mA-Mbo"; */
+"geY-mA-Mbo.title" = "Ajout du texte...";
+
+/* Class = "NSMenuItem"; title = "Share"; ObjectID = "h3V-jw-kT5"; */
+"h3V-jw-kT5.title" = "Partager";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "No Left Panel"; ObjectID = "iBk-NA-6Us"; */
+"iBk-NA-6Us.title" = "Aucun panneau à gauche";
+
+/* Class = "NSMenuItem"; title = "Move Tab to New Window"; ObjectID = "in1-iS-yUu"; */
+"in1-iS-yUu.title" = "Déplacer l’onglet vers une nouvelle fenêtre";
+
+/* Class = "NSMenuItem"; title = "Close All Windows"; ObjectID = "j5h-yw-WuD"; */
+"j5h-yw-WuD.title" = "Fermer toutes les fenêtres";
+
+/* Class = "NSMenuItem"; title = "Redact"; ObjectID = "jbD-Ae-zY5"; */
+"jbD-Ae-zY5.title" = "Biffer";
+
+/* Class = "NSMenuItem"; title = "Last Page"; ObjectID = "jz2-Kt-h3D"; */
+"jz2-Kt-h3D.title" = "Dernière page";
+
+/* Class = "NSMenuItem"; title = "Vertical"; ObjectID = "kO2-jO-bYY"; */
+"kO2-jO-bYY.title" = "Vertical";
+
+/* Class = "NSMenuItem"; title = "Annotation Summary"; ObjectID = "kQk-25-Snc"; */
+"kQk-25-Snc.title" = "Résumé des annotations";
+
+/* Class = "NSMenu"; title = "Header and Footer"; ObjectID = "kXW-xZ-Uso"; */
+"kXW-xZ-Uso.title" = "En-tête et pied de page";
+
+/* Class = "NSMenuItem"; title = "Crop All Pages"; ObjectID = "kpI-92-klP"; */
+"kpI-92-klP.title" = "Recadrer toutes les pages";
+
+/* Class = "NSMenuItem"; title = "Add Bookmark to Current Page"; ObjectID = "lIc-W8-7AY"; */
+"lIc-W8-7AY.title" = "Ajouter un signet à la page en cours";
+
+/* Class = "NSMenuItem"; title = "Change Bottom/Right Document"; ObjectID = "mF6-zX-9vx"; */
+"mF6-zX-9vx.title" = "Modifier le document en bas/à droite";
+
+/* Class = "NSMenuItem"; title = "Remove All Annotations"; ObjectID = "mSW-Hl-ff6"; */
+"mSW-Hl-ff6.title" = "Supprimer toutes les annotations";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "mVO-tf-zHl"; */
+"mVO-tf-zHl.title" = "Texte";
+
+/* Class = "NSMenuItem"; title = "Content Selection"; ObjectID = "nsX-5m-e2U"; */
+"nsX-5m-e2U.title" = "Sélection de contenu";
+
+/* Class = "NSMenuItem"; title = "First Page"; ObjectID = "nxq-e8-1En"; */
+"nxq-e8-1En.title" = "Première page";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
+"oas-Oc-fiZ.title" = "Ouvrir récents";
+
+/* Class = "NSMenuItem"; title = "Line"; ObjectID = "pcH-Cm-3mR"; */
+"pcH-Cm-3mR.title" = "Ligne";
+
+/* Class = "NSMenuItem"; title = "Remove All Text"; ObjectID = "pd6-Qe-z9L"; */
+"pd6-Qe-z9L.title" = "Supprimer tout le texte";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "prH-Ku-rAJ"; */
+"prH-Ku-rAJ.title" = "Stylo";
+
+/* Class = "NSMenuItem"; title = "Change Top/Left Document"; ObjectID = "psO-YW-Y0O"; */
+"psO-YW-Y0O.title" = "Modifier le document en haut/à gauche";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "pxx-59-PXV"; */
+"pxx-59-PXV.title" = "Enregistrer";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+"q09-fT-Sye.title" = "Rechercher le suivant";
+
+/* Class = "NSMenuItem"; title = "Rotate Annotation 90° Left"; ObjectID = "q3n-vl-vuW"; */
+"q3n-vl-vuW.title" = "Pivoter l'annotation de 90º à gauche";
+
+/* Class = "NSMenuItem"; title = "From Images..."; ObjectID = "qHq-3b-J9c"; */
+"qHq-3b-J9c.title" = "Depuis des images...";
+
+/* Class = "NSMenuItem"; title = "Sync Scroll and Zoom"; ObjectID = "qvy-1A-BPc"; */
+"qvy-1A-BPc.title" = "Synchroniser le zoom et le défilement";
+
+/* Class = "NSMenuItem"; title = "Zoom to Fit Page"; ObjectID = "s37-3E-SWz"; */
+"s37-3E-SWz.title" = "Zoom pour ajuster à la page";
+
+/* Class = "NSMenuItem"; title = "Clear Form"; ObjectID = "stg-E2-bp0"; */
+"stg-E2-bp0.title" = "Effacer le formulaire";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "Ouvrir récents";
+
+/* Class = "NSMenu"; title = "PDF Expert"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "PDF Expert";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Couper";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
+"vNY-rz-j42.title" = "Vider le menu";
+
+/* Class = "NSMenuItem"; title = "Close Tab"; ObjectID = "vW2-sc-h6c"; */
+"vW2-sc-h6c.title" = "Fermer l’onglet";
+
+/* Class = "NSMenu"; title = "Split View"; ObjectID = "vYO-YZ-sSL"; */
+"vYO-YZ-sSL.title" = "Affichage fractionné";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "vxf-8n-8C0"; */
+"vxf-8n-8C0.title" = "Aller";
+
+/* Class = "NSMenuItem"; title = "Rotate Current Page Right"; ObjectID = "vzu-jp-ldZ"; */
+"vzu-jp-ldZ.title" = "Rotation à droite de la page actuelle";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "w3J-xm-H2a"; */
+"w3J-xm-H2a.title" = "Aller";
+
+/* Class = "NSMenuItem"; title = "Zoom to 100%"; ObjectID = "wEn-jm-QBU"; */
+"wEn-jm-QBU.title" = "Zoom à 100%";
+
+/* Class = "NSMenuItem"; title = "Swap Sides"; ObjectID = "wia-sM-ld0"; */
+"wia-sM-ld0.title" = "Inverser les côtés";
+
+/* Class = "NSMenuItem"; title = "Horizontal"; ObjectID = "wjt-3g-g1X"; */
+"wjt-3g-g1X.title" = "Horizontal";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Aide";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Copier";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "xxZ-R4-Sfl"; */
+"xxZ-R4-Sfl.title" = "Zoom arrière";
+
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "y6N-ra-Ng3"; */
+"y6N-ra-Ng3.title" = "Ovale";
+
+/* Class = "NSMenuItem"; title = "Add Outline Item"; ObjectID = "ytY-RM-COS"; */
+"ytY-RM-COS.title" = "Ajouter un élément au plan";
+
+/* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "z29-BL-bx8"; */
+"z29-BL-bx8.title" = "Rectangle";
+
+/* Class = "NSMenuItem"; title = "Go to Next Tab"; ObjectID = "z3u-uz-xqc"; */
+"z3u-uz-xqc.title" = "Aller à l’onglet suivant";
